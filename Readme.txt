@@ -4,3 +4,5 @@ Pairs-TradingCode: Pasta que engloba o Jupyter e os arquivos necessários para s
 	OBS: Apenas lógicas dentro de "Abordagem Utilizada" foram levadas em consideração para o Portifólio
 
 cv_ps20261_16869169: Currículo
+
+TabelasDoRelatório: Excel com algumas tabelas feitas para esposição de resultados no relatório
