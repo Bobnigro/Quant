@@ -5,4 +5,6 @@ Pairs-TradingCode: Pasta que engloba o Jupyter e os arquivos necessários para s
 
 cv_ps20261_16869169: Currículo
 
+case_ps20261_16869169: Relatório
+
 TabelasDoRelatório: Excel com algumas tabelas feitas para esposição de resultados no relatório
